@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 #import "NSString+FontAwesome.h"
-#import <QuartzCore/QuartzCore.h>
-#import <objc/runtime.h>
 
 typedef enum {
     IconPositionRight,
