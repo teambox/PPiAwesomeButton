@@ -7,6 +7,8 @@
 //
 
 #import "UIButton+PPiAwesome.h"
+#import <QuartzCore/QuartzCore.h>
+#import <objc/runtime.h>
 
 static char buttonTextKey;
 static char buttonIconKey;
