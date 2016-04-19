@@ -7,6 +7,7 @@
 //
 
 #import "UIButton+PPiAwesome.h"
+#import "NSString+FontAwesome.h"
 #import <QuartzCore/QuartzCore.h>
 #import <objc/runtime.h>
 

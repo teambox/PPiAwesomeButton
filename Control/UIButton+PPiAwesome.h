@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "NSString+FontAwesome.h"
 
 typedef enum {
     IconPositionRight,
