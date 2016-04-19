@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "NSString+FontAwesome.h"
 #import "UIButton+PPiAwesome.h"
 
 typedef void (^block)();

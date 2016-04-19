@@ -7,6 +7,8 @@
 //
 
 #import "UIAwesomeButton.h"
+#import "NSString+FontAwesome.h"
+
 @interface UIAwesomeButton ()
 @property (nonatomic) CGFloat separation;
 @property (nonatomic) NSTextAlignment textAligment;
